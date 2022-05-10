@@ -4,7 +4,8 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "test": "jest"
+    "test1": "jest sample1.test.js",
+    "test2": "jest sample2.test.js"
   },
   "dependencies": {
     "jest": "^28.1.0"
