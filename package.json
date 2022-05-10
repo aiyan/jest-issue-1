@@ -1,0 +1,12 @@
+{
+  "name": "jest-issue-1",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
