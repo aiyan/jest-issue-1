@@ -6,9 +6,3 @@ describe('scoped', () => {
   beforeAll(() => console.log('INNER beforeAll'));
   test('', () => console.log('INNER test'));
 });
-
-/*
-OUTER beforeEach
-OUTER test
-INNER beforeAll
- */
