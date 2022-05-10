@@ -8,6 +8,6 @@
     "test2": "jest sample2.test.js"
   },
   "dependencies": {
-    "jest": "^28.1.0"
+    "jest": "28.1.0"
   }
 }
